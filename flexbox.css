@@ -1,0 +1,23 @@
+.container{
+    display: flexbox;
+    flex-direction: column-reverse;
+    background-color: beige;
+    border: 2px solid black;
+    height: 5000px;
+}
+.one{
+    background-color: rgb(255, 111, 0);
+    /* border: 4px solid firebrick; */
+    
+    height: 10%;
+}
+.two{
+    background-color: white;
+    height: 70%;
+    /* border: 4px solid peachpuff; */
+}
+.three{
+    background-color: rgb(23, 213, 23);
+    height: 20%;
+    /* border: 4px solid pink; */
+}
